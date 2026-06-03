@@ -29,14 +29,6 @@ You set all parameters before the run. Whatever happened after that, happened. S
 - Hall effect sensors for distance measurement
 - Power regulation circuitry to maintain consistent motor voltage
 
-## The Hard Problem: Consistency
-
-The technical challenge wasn't building the car — it was making it repeatable. The caliper steering would hold a set position during one session, then drift slightly before the next. Same parameters, different arc.
-
-Since even a small deviation in the turning radius compounds over distance, this variability was fatal for scoring. The root cause: flex in the caliper mount under repeated load cycles. The fix required iterating the assembly geometry until the structure was rigid enough to hold position without sacrificing the caliper's range of motion.
-
-Several reprints later, the mechanism held consistently across a full practice session for the first time.
-
 ## Results
 
 - **4th Place Regional Competition**
